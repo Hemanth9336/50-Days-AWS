@@ -16,18 +16,6 @@ Create a subnet named `devops-subnet` under the **default VPC** in AWS.
 
 ---
 
-## 🔐 AWS Credentials
-
-> ⚠️ Temporary credentials for lab use only
-
-| Field       | Value                                                                                                                                      |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Console URL | [https://613837775091.signin.aws.amazon.com/console?region=us-east-1](https://613837775091.signin.aws.amazon.com/console?region=us-east-1) |
-| Username    | kk_labs_user_534994                                                                                                                        |
-| Password    | [Credentials]                                                                                                                              |
-
----
-
 ## 🚀 Steps to Execute
 
 ### 1. Login to AWS
