@@ -6,7 +6,7 @@
 
 The Nautilus DevOps team is adopting **serverless architecture** using Amazon Web Services Lambda to simplify operations and improve scalability.
 
-As part of this initiative, we created a basic Lambda function that returns a custom greeting. This demonstrates:
+As part of this initiative, we created a basic Lambda function that returns a custom greeting. This demonstrates
 
 * ⚡ Rapid deployment
 * 📈 Automatic scaling
@@ -16,7 +16,7 @@ As part of this initiative, we created a basic Lambda function that returns a cu
 
 ## 🎯 Objective
 
-Create a Lambda function with the following specifications:
+Create a Lambda function with the following specifications
 
 | Requirement       | Details                  |
 | ----------------- | ------------------------ |
@@ -62,10 +62,10 @@ Create a Lambda function with the following specifications:
 
 ### 3️⃣ Write Lambda Code
 
-Replace the default code with:
+Replace the default code with
 
 ```python
-def lambda_handler(event, context):
+def lambda_handler(event, context)
     return {
         'statusCode': 200,
         'body': 'Welcome to KKE AWS Labs!'
